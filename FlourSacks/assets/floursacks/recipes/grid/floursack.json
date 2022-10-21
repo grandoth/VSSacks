@@ -1,0 +1,10 @@
+{
+	ingredientPattern: "S,L",
+	width: 1,
+	height: 2,
+	ingredients: {
+		"S": { type: "item", code: "game:flour-*", name: "flour", quantity: 32},
+		"L": { type: "block", code: "game:rushmat"}
+	},
+	output: { type: "item", code: "floursack-{flour}"}
+}
