@@ -9,8 +9,8 @@
 	},
 	"textures": {
 		"light": "block/cloth/burlap/stacked-sides",
-		"dark": "C:/Greg/Games/Vintage Story/FlourSacks/assets/floursacks/textures/block/cloth/burlap/stacked-sides-dark",
-		"seam": "C:/Greg/Games/Vintage Story/FlourSacks/assets/floursacks/textures/block/cloth/burlap/seam"
+		"dark": "C:/dev/CSharp/VintageStory/VintageStorySacks/FlourSacks/assets/floursacks/textures/block/cloth/burlap/stacked-sides-dark",
+		"seam": "C:/dev/CSharp/VintageStory/VintageStorySacks/FlourSacks/assets/floursacks/textures/block/cloth/burlap/seam"
 	},
 	"elements": [
 		{

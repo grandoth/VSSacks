@@ -16,7 +16,7 @@
 		}
 	}],
 	variantgroups: [
-		{ code: "type", states: ["spelt", "rice", "flax", "rye", "amaranth", "sunflower" ] },
+		{ code: "type", states: ["spelt", "rice", "flax", "rye", "cassava", "amaranth", "sunflower" ] },
 	],
 	shape: { base: "item/floursack" },
 	attributes: {
@@ -26,6 +26,11 @@
 		onDisplayTransform: {
 			origin: { x: 0.5, y: 0, z: 0.5 },
 			scale: 0.7
+		},
+		handbook: {
+			extraSections: [
+				{ title: "floursacks:item-handbooktitle-floursack", text: "floursacks:item-handbooktext-floursack" }
+			]
 		}
 	},
 	textures: {
