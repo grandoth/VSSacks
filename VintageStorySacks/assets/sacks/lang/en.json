@@ -1,0 +1,11 @@
+{
+	"sacks:item-floursack-spelt": "Spelt flour sack",
+	"sacks:item-floursack-rice": "Rice flour sack",
+	"sacks:item-floursack-flax": "Flax flour sack",
+	"sacks:item-floursack-rye": "Rye flour sack",
+	"sacks:item-floursack-cassava": "Cassava flour sack",
+	"sacks:item-floursack-amaranth": "Amaranth flour sack",
+	"sacks:item-floursack-sunflower": "Sunflower flour sack",
+	"sacks:item-handbooktitle-floursack": "Uses",
+	"sacks:item-handbooktext-floursack": "Store flour in a <a href=\"handbook://block-rushmat\">rush</a> sack for enhanced freshness and conveniently stack (12 per block) in a kitchen or storeroom."
+}

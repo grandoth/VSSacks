@@ -1,7 +1,7 @@
 {
   "type": "content",
-  "name": "FlourSacks",
-  "description" : "Flour sacks, ground storage",
+  "name": "VintageStorySacks",
+  "description" : "Item sacks, ground storage",
   "author": "Grandoth",
   "version": "0.9.1",
   "gameversions": [ "1.5.0.3+" ],

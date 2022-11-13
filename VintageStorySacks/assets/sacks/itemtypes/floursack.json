@@ -1,12 +1,12 @@
 {
 	code: "floursack",
-	maxstacksize: 16,
+	maxstacksize: 1,
 	behaviors: [{ 
 		name: "GroundStorable",
 		properties: {
 			layout: 'Stacking',
 			placeRemoveSound: 'game:sounds/block/cloth',
-			stackingModel: 'block/floursackpile',
+			stackingModel: 'block/sackpile',
 			tessQuantityElements: 9,
 			stackingCapacity: 12,
 			transferQuantity: 1,
@@ -18,10 +18,10 @@
 	variantgroups: [
 		{ code: "type", states: ["spelt", "rice", "flax", "rye", "cassava", "amaranth", "sunflower" ] },
 	],
-	shape: { base: "item/floursack" },
+	shape: { base: "item/sack" },
 	attributes: {
 		dissolveInWater: true,
-		displaycaseable: true, 
+		displaycaseable: true,
 		shelvable: true,
 		onDisplayTransform: {
 			origin: { x: 0.5, y: 0, z: 0.5 },
@@ -29,7 +29,7 @@
 		},
 		handbook: {
 			extraSections: [
-				{ title: "floursacks:item-handbooktitle-floursack", text: "floursacks:item-handbooktext-floursack" }
+				{ title: "sacks:item-handbooktitle-floursack", text: "sacks:item-handbooktext-floursack" }
 			]
 		}
 	},

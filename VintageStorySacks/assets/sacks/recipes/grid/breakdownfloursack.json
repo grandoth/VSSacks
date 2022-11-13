@@ -5,5 +5,5 @@
 	ingredients: {
 		"S": { type: "item", code: "floursack-*", name: "flour", returnedStack: { type: "block", code: "game:rushmat" } }
 	},
-	output: { type: "item", code: "game:flour-{flour}", quantity: 32 }
+	output: { type: "item", code: "game:flour-{flour}", quantity: 128 }
 }
