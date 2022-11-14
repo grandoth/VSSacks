@@ -3,7 +3,7 @@
   "name": "VintageStorySacks",
   "description" : "Item sacks, ground storage",
   "author": "Grandoth",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "gameversions": [ "1.5.0.3+" ],
   "website": "https://github.com/grandoth/VintageStorySacks"
 }
