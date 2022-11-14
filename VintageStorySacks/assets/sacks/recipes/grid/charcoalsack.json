@@ -1,0 +1,10 @@
+{
+	ingredientPattern: "S,S,L",
+	width: 1,
+	height: 3,
+	ingredients: {
+		"S": { type: "item", code: "game:charcoal", quantity: 64 },
+		"L": { type: "block", code: "game:rushmat"}
+	},
+	output: { type: "item", code: "charcoalsack" }
+}

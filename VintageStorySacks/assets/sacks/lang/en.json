@@ -7,5 +7,12 @@
 	"sacks:item-floursack-amaranth": "Amaranth flour sack",
 	"sacks:item-floursack-sunflower": "Sunflower flour sack",
 	"sacks:item-handbooktitle-floursack": "Uses",
-	"sacks:item-handbooktext-floursack": "Store flour in a <a href=\"handbook://block-rushmat\">rush</a> sack for enhanced freshness and conveniently stack (12 per block) in a kitchen or storeroom."
+	"sacks:item-handbooktext-floursack": "Store flour in a <a href=\"handbook://block-rushmat\">rush</a> sack for enhanced freshness and conveniently stack (12 per block) in a kitchen or storeroom.",
+	"sacks:item-charcoalsack": "Charcoal sack",
+	"sacks:item-handbooktitle-charcoalsack": "Uses",
+	"sacks:item-handbooktext-charcoalsack": "Store charcoal in a <a href=\"handbook://block-rushmat\">rush</a> sack and conveniently stack (12 per block) in a work room or storeroom.",
+	"sacks:item-oresack-bituminouscoal": "Black coal sack",
+	"sacks:item-oresack-lignite": "Brown coal sack",
+	"sacks:item-handbooktitle-oresack": "Uses",
+	"sacks:item-handbooktext-oresack": "Store coal ores in a <a href=\"handbook://block-rushmat\">rush</a> sack and conveniently stack (12 per block) in a work room or storeroom.",
 }
