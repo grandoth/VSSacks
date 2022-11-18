@@ -1,0 +1,74 @@
+{
+	code: "rawcassavadriedsack",
+	maxstacksize: 1,
+	behaviors: [{ 
+		name: "GroundStorable",
+		properties: {
+			layout: 'Stacking',
+			placeRemoveSound: 'game:sounds/block/cloth',
+			stackingModel: 'block/sackpile',
+			tessQuantityElements: 9,
+			stackingCapacity: 12,
+			transferQuantity: 1,
+			bulkTransferQuantity: 2,
+			collisionBox: { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.16667, z2: 1 },
+			cbScaleYByLayer: 0.5
+		}
+	}],
+	shape: { base: "item/sack" },
+	attributes: {
+		dissolveInWater: false,
+		displaycaseable: true,
+		shelvable: true,
+		onDisplayTransform: {
+			origin: { x: 0.5, y: 0, z: 0.5 },
+			scale: 0.7
+		},
+		handbook: {
+			extraSections: [
+				{ title: "sacks:item-handbooktitle-rawcassavadriedsack", text: "sacks:item-handbooktext-rawcassavadriedsack" }
+			]
+		}
+	},
+	textures: {
+		light: { "base": "game:block/cloth/burlap/stacked-sides" },
+		dark: { "base": "block/cloth/burlap/stacked-sides-dark" },
+		seam: { "base": "block/cloth/burlap/seam" }
+	},
+	sounds: {
+		walk: "game:walk/cloth",
+		place: "game:block/cloth"
+	},
+	creativeinventory: { "general": ["*"], "items": ["*"] },
+	transitionableProps: [{
+		type: "Perish",
+		freshHours: { avg: 4032 },
+		transitionHours: { avg: 180 },
+		transitionedStack: { type: "item", code: "rot" },
+		transitionRatio: 0.5
+	}],
+	guiTransform: {
+		translation: { x: 2, y: -4, z: 0 },
+		rotation: { x: 149, y: -15, z: 0 },
+		origin: { x: 0.5, y: 0.256, z: 0.5 },
+		scale: 1.8
+	},
+	fpHandTransform: {
+		translation: { x: 0, y: 0.1, z: 0 },
+		rotation: { x: 65, y: 21, z: -6 },
+		origin: { x: 0.5, y: 0.1, z: 0.5 },
+		scale: 2.5
+	},
+	tpHandTransform: {
+		translation: { x: 0, y: 0, z: 0 },
+		rotation: { x: -17, y: 8, z: -19 },
+		origin: { x: 0.14, y: 0.04, z: 0.18 },
+		scale: 0.46
+	},
+	groundTransform: {
+		translation: { x: 0, y: 0, z: 0 },
+		rotation: { x: 0, y: 0, z: 0 },
+		origin: { x: 0.5, y: 0, z: 0.5 },
+		scale: 3
+	}
+}
