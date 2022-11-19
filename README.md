@@ -26,6 +26,6 @@ Requires:
 - [Vintage Story Sacks](https://mods.vintagestory.at/VintageStorySacks)
 - [Bunny's Road Works](https://mods.vintagestory.at/show/mod/3751)
 
-## Cement Powder Sacks
-- Store cement powder in a sack.
-- Craft a sack with 128 cement powder and 1 rush matting.
+## Powdered Cement Sacks
+- Store powdered cement in a sack.
+- Craft a sack with 128 powdered cement and 1 rush matting.
