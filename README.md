@@ -8,7 +8,7 @@ Currently the following sacks are supported:
 - Flour, grain, dried cassava, and coal
 
 ## Mod Compatibility:
-To add support for [Bunny's Road Works](https://mods.vintagestory.at/show/mod/3751) \([github](https://github.com/funnybunnyofdoom/Vintage-Story-Mods/tree/master/roadworks)\), also add [Vintage Story Sacks-Bunny's Road Works Addon](https://mods.vintagestory.at/VintageStorySacksRoadWorks)
+To add support for [Bunny's Road Works](https://mods.vintagestory.at/show/mod/3751) \([github](https://github.com/funnybunnyofdoom/Vintage-Story-Mods/tree/master/roadworks)\), add [Vintage Story Sacks-Bunny's Road Works Addon](https://mods.vintagestory.at/VintageStorySacksRoadWorks).
 
 ## Flour, Grain, and Dried Cassava Sacks
 - Store all flour, grain, and dried cassava in sacks.
@@ -19,7 +19,7 @@ To add support for [Bunny's Road Works](https://mods.vintagestory.at/show/mod/37
 - Store black coal, bown coal, and charcoal variants in a sack.
 - Craft a coal sack with 128 coal and 1 rush matting.
 
-# Bunny's Road Works Addon
+# Vintage Story Sacks Bunny's Road Works Addon
 Vintage Story Sacks addon for [Bunny's Road Works](https://mods.vintagestory.at/show/mod/3751) \([github](https://github.com/funnybunnyofdoom/Vintage-Story-Mods/tree/master/roadworks)\).
 
 Requires:
