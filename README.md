@@ -1,5 +1,5 @@
 # VintageStorySacks
-- Vintage Story Sacks adds stackable storage sacks (12 per block).
+Vintage Story Sacks adds stackable storage sacks (12 per block).
 - Craft a sack with 128 of a supported item and 1 rush matting.
 - To retrieve the sack contents and the rush matting, place the sack in the crafting grid.
 
