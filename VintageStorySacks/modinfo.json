@@ -1,9 +1,13 @@
 {
   "type": "content",
-  "name": "VintageStorySacks",
-  "description" : "Item sacks, ground storage",
-  "author": "Grandoth",
-  "version": "0.9.3",
-  "gameversions": [ "1.5.0.3+" ],
+  "modid": "sacks",
+  "name": "Vintage Story Sacks",
+  "description" : "Vintage Story Sacks adds craftable stackable ground storage sacks (12 per block). More items to come.",
+  "authors": ["Grandoth"],
+  "version": "0.9.4",
+  "dependencies":
+  {
+    "game": ""
+  },
   "website": "https://github.com/grandoth/VintageStorySacks"
 }

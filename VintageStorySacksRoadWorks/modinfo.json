@@ -1,0 +1,15 @@
+{
+  "type": "content",
+  "modid": "sacksroadworks",
+  "name": "Vintage Story Sacks-Bunny's Road Works Addon",
+  "description" : "Vintage Story Sacks addon for Bunny's Road Works. Requires Vintage Story Sacks and Bunny's Road Works.",
+  "authors": ["Grandoth"],
+  "version": "0.9.4",
+  "dependencies":
+  {
+      "game": "",
+      "sacks": "0.9.4",
+      "roadworks": "1.0.8"
+  },
+  "website": "https://github.com/grandoth/VintageStorySacks"
+}
