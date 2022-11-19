@@ -2,6 +2,7 @@
 - Vintage Story Sacks adds stackable storage sacks (12 per block).
 - Craft a sack with 128 of a supported item and 1 rush matting.
 - To retrieve the sack contents and the rush matting, place the sack in the crafting grid.
+
 Note: Rush matting will be placed in an inventory slot or stack if room is available.
 
 Currently, flour, grain, dried cassava, and coal sacks are supported.
