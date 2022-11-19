@@ -4,7 +4,11 @@ Vintage Story Sacks adds stackable storage sacks (12 per block).
 - To retrieve the sack contents and the rush matting, place the sack in the crafting grid. Note: Rush matting will be placed in an inventory slot or stack if room is available.
 - Higher density than chest storage.
 
-Currently, flour, grain, dried cassava, and coal sacks are supported.
+Currently the following sacks are supported:
+- Flour, grain, dried cassava, and coal
+
+## Mod Compatibility:
+To add support for [Bunny's Road Works](https://mods.vintagestory.at/show/mod/3751) \([github](https://github.com/funnybunnyofdoom/Vintage-Story-Mods/tree/master/roadworks)\), also add [Vintage Story Sacks-Bunny's Road Works Addon](https://mods.vintagestory.at/VintageStorySacksRoadWorks)
 
 ## Flour, Grain, and Dried Cassava Sacks
 - Store all flour, grain, and dried cassava in sacks.
@@ -17,6 +21,10 @@ Currently, flour, grain, dried cassava, and coal sacks are supported.
 
 # Bunny's Road Works Addon
 Vintage Story Sacks addon for [Bunny's Road Works](https://mods.vintagestory.at/show/mod/3751) \([github](https://github.com/funnybunnyofdoom/Vintage-Story-Mods/tree/master/roadworks)\).
+
+Requires:
+- [Vintage Story Sacks](https://mods.vintagestory.at/VintageStorySacks)
+- [Bunny's Road Works](https://mods.vintagestory.at/show/mod/3751)
 
 ## Cement Powder Sacks
 - Store cement powder in a sack.
